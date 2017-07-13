@@ -4,17 +4,23 @@
   */Build a row:
     input: ???
     output:?
-    */Build a column:
-    input: ???
-    output:????
-
-    */Build  a table w/ the row and column:
-    Input:??
-    Output:???
 
     */Determine size of table by length of input:
     Input:The great person that happens to also be a ghost. (~36 characters)
     Output: 6x6
+
+    */Build a column:
+    input: ???
+    output:????
+
+    */Determine length of input message;
+      Input Example: "I love lucy"
+      Output Example: 9
+    Build  a table w/ the row and column:
+    Input:??
+    Output:???
+
+
 
     */Fill square with letters:
     Input:
